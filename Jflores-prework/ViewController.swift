@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  Jflores-prework
 //
-//  Created by Yvette Flores Rincon on 8/26/23.
+//  Created by Jonathan Flores Rincon on 8/26/23.
 //
 
 import UIKit
